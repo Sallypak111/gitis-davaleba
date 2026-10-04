@@ -1,0 +1,47 @@
+body{
+    background-color: #D6E2F0;
+}
+.cube{margin: 0;
+    padding: 0;
+    text-decoration: none;
+    cube-sizing: border-cube;
+}
+
+
+.cube{
+    background-color: white;
+    width: 200px;
+    height: 360px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 16px;
+
+} 
+
+.cube img{
+    width: 200px;
+    height: 200px;
+    border-radius: 22px;
+}
+
+.cube h1{
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.cube p{
+    font-size: 11px;
+    text-align: center;
+    
+
+}
+
+
+    
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../davaleba"
+		},
+		{
+			"path": "../new.html"
+		},
+		{
+			"path": "../sssssssssssss"
+		},
+		{
+			"path": "../axali"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "../saregistracio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css"
+	}
+}
